@@ -1,0 +1,5 @@
+num = int(input(Nh?p s?))
+if num % 2 == 0:
+    print(S? ch?n)
+else:
+    print(s? l?)
