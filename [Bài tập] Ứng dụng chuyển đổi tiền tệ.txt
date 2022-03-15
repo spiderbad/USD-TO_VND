@@ -1,0 +1,3 @@
+usd = int(input("Nh?p s? ti?n mu?n quy d?i:"))
+vnd = usd * 23000
+print("s? ti?n du?c quy d?i thành:", vnd,"vnd")
